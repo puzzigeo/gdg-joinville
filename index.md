@@ -14,6 +14,10 @@ Conteúdo da palestra e do workshop de Earth Engine para o [Google Developers Gr
 - 8 de Abril (Presencial): Workshop: Introdução ao Google Earth Engine 1
 - 9 de Abril (Presencial): Workshop: Introdução ao Google Earth Engine 2
 
+## Instrutora
+
+
+
 ## Pré-requisitos Workshop
 
 ## Perguntas
