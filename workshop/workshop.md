@@ -18,7 +18,7 @@ Link para inscrição:
 
 ## Pré-requisitos Workshop
 
-- Conta da Google
+- [Conta da Google](https://accounts.google.com/signup)
 - Cadastro no Google Earth Engine (GEE)
 - Cloud Project dentro da Google Cloud Platform
 - [*Opcional*] Google Chrome
