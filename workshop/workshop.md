@@ -30,7 +30,7 @@ Link para inscrição:
     <img align="center" src="images/registro0.png" hspace="15" vspace="10" width="600">
 2. Clique em **Register a Noncommercial or Commercial Cloud Project**.
 
-    <img align="center" src=".images/registro1.png" hspace="15" vspace="10" width="600">
+    <img align="center" src="images/registro1.png" hspace="15" vspace="10" width="600">
 3. Na próxima página, selecione **Unpaid usage** e em *Project type* selecione **Trainer & trainees**. Clique em **NEXT**.
 
     <img align="center" src="images/registro2.png" hspace="15" vspace="10" width="600">
