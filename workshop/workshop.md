@@ -28,6 +28,10 @@ Link para inscrição:
 1. Acesse [https://code.earthengine.google.com/register](https://code.earthengine.google.com/register) e selecione a sua conta da Google para realizar seu cadastro no GEE.
 
     <img align="center" src="../images/registro0.png" hspace="15" vspace="10" width="600">
+    <img align="center" src="puzzigeo.github.io/gdg-joinville/images/registro0.png" hspace="15" vspace="10" width="600">
+    <img align="center" src="./images/registro0.png" hspace="15" vspace="10" width="600">
+    <img align="center" src="/images/registro0.png" hspace="15" vspace="10" width="600">
+    <img align="center" src="images/registro0.png" hspace="15" vspace="10" width="600">
 2. Clique em **Register a Noncommercial or Commercial Cloud Project**.
 
     <img align="center" src="../images/registro1.png" hspace="15" vspace="10" width="600">
