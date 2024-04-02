@@ -20,7 +20,7 @@ nav_order: 2
 - Tecnologias emergentes
 - Recursos do GEE
 
-**Link para inscrição**: [https://gdg.community.dev/events/details/google-gdg-joinville-presents-palestra-o-mundo-das-geotecnologias-enfase-no-uso-do-google-earth-engine/](https://gdg.community.dev/events/details/google-gdg-joinville-presents-palestra-o-mundo-das-geotecnologias-enfase-no-uso-do-google-earth-engine/)
+**Página do evento**: [https://gdg.community.dev/events/details/google-gdg-joinville-presents-palestra-o-mundo-das-geotecnologias-enfase-no-uso-do-google-earth-engine/](https://gdg.community.dev/events/details/google-gdg-joinville-presents-palestra-o-mundo-das-geotecnologias-enfase-no-uso-do-google-earth-engine/)
 
 **Acesso Slides**:
 
